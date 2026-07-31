@@ -39,3 +39,4 @@
   - [Building a LangGraph Agent from Scratch](https://towardsdatascience.com/building-a-langgraph-agent-from-scratch/)
   - [Strands Agents SDK: A technical deep dive into agent architectures and observability](https://aws.amazon.com/blogs/machine-learning/strands-agents-sdk-a-technical-deep-dive-into-agent-architectures-and-observability/)
 - [Strands Agents SDK samples](https://github.com/strands-agents/samples/tree/main)
+- [Built-in tools available in the strands framework](https://github.com/strands-agents/tools)
