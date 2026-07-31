@@ -37,3 +37,4 @@
   - [CrewAI](https://docs.crewai.com/v1.15.5/en/quickstart)
   - [Langchain agents](https://docs.langchain.com/oss/python/langchain/agents)
   - [Building a LangGraph Agent from Scratch](https://towardsdatascience.com/building-a-langgraph-agent-from-scratch/)
+  - [Strands Agents SDK: A technical deep dive into agent architectures and observability](https://aws.amazon.com/blogs/machine-learning/strands-agents-sdk-a-technical-deep-dive-into-agent-architectures-and-observability/)
