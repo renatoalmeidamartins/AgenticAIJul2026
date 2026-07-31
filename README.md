@@ -38,3 +38,4 @@
   - [Langchain agents](https://docs.langchain.com/oss/python/langchain/agents)
   - [Building a LangGraph Agent from Scratch](https://towardsdatascience.com/building-a-langgraph-agent-from-scratch/)
   - [Strands Agents SDK: A technical deep dive into agent architectures and observability](https://aws.amazon.com/blogs/machine-learning/strands-agents-sdk-a-technical-deep-dive-into-agent-architectures-and-observability/)
+- [Strands Agents SDK samples](https://github.com/strands-agents/samples/tree/main)
