@@ -24,3 +24,8 @@
 - [Effective context engineering for AI agents](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents)
 - [Understanding intelligent prompt routing in Amazon Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/prompt-routing.html)
 - [Amazon Bedrock Flows Templates](https://github.com/aws-samples/amazon-bedrock-flows-samples)
+- Kiro
+  - [Specs](https://kiro.dev/docs/specs/)
+  - [Steering](https://kiro.dev/docs/steering/)
+  - [Powers](https://kiro.dev/docs/powers/)
+  - [CLI](https://kiro.dev/docs/cli/)
