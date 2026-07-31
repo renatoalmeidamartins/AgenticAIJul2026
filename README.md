@@ -29,3 +29,7 @@
   - [Steering](https://kiro.dev/docs/steering/)
   - [Powers](https://kiro.dev/docs/powers/)
   - [CLI](https://kiro.dev/docs/cli/)
+- Bedrock knowledge based (RAG-in-a-box)
+  - [Building a multimodal RAG based application using Amazon Bedrock Data Automation and Amazon Bedrock Knowledge Bases](https://aws.amazon.com/blogs/machine-learning/building-a-multimodal-rag-based-application-using-amazon-bedrock-data-automation-and-amazon-bedrock-knowledge-bases/)
+  - [Deploy Amazon Bedrock Knowledge Bases using Terraform for RAG-based generative AI applications](https://aws.amazon.com/blogs/machine-learning/deploy-amazon-bedrock-knowledge-bases-using-terraform-for-rag-based-generative-ai-applications/)
+  - [Build enterprise search for agents with Amazon Bedrock Managed Knowledge Base](https://aws.amazon.com/blogs/machine-learning/build-enterprise-search-for-agents-with-amazon-bedrock-managed-knowledge-base/)
