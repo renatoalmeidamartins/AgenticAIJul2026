@@ -9,3 +9,5 @@
 - [Transformers in AI](https://aws.amazon.com/what-is/transformers-in-artificial-intelligence/)
 - [Neural network zoo](https://www.asimovinstitute.org/neural-network-zoo/)
 - [Sagemaker's built-in algorithms](https://docs.aws.amazon.com/sagemaker/latest/dg/algos.html)
+- [What is Prompt Engineering?](https://aws.amazon.com/what-is/prompt-engineering/)
+- [Implementing advanced prompt engineering with Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/implementing-advanced-prompt-engineering-with-amazon-bedrock/)
