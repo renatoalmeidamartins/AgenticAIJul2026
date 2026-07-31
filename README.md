@@ -1,8 +1,11 @@
 # AgenticAIJul2026
 
-## Books and labs
+- [My linkedin profile](https://www.linkedin.com/in/renatodealmeidamartins/)
+
+## Books, labs and exams
 - [Access to lab and course materials](https://us-east-1.student.classrooms.aws.training/class/ilt%23d5sRJim8KQLwhG8Uvhaog7)
 - [Skill builder, massive course catalog](https://skillbuilder.aws/)
+- [Gen AI developer professional exam](https://aws.amazon.com/certification/certified-generative-ai-developer-professional/?trk=50fd1d88-f5af-4fa6-9b0b-5a8afc70d2f0&sc_channel=ps)
 
 ## Supporting links
 - [What is Agentic AI](https://aws.amazon.com/what-is/agentic-ai/)
