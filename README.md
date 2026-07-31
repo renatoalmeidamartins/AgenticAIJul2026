@@ -50,4 +50,5 @@
     - [Amazon Bedrock AgentCore Evaluations is now generally available](https://aws.amazon.com/about-aws/whats-new/2026/03/agentcore-evaluations-generally-available/)
     - [Prompts for agentcore evaluations](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/prompt-templates-builtin.html)
   - [Long-term memory extraction strategies](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/built-in-strategies.html) - keep in mind that any strategy needs a prompt to achieve its results. Here are the prompts for [semantic](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/memory-system-prompt.html), [user preferences](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/memory-user-prompt.html), [episodic](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/memory-episodic-prompt.html), [summarization](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/memory-summary-prompt.html)
-    
+- [Agentcore CLI](https://github.com/aws/agentcore-cli)
+- [Observability with Agentcore](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/observability.html)
