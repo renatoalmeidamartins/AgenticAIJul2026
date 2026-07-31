@@ -8,3 +8,4 @@
 - [What is Agentic AI](https://aws.amazon.com/what-is/agentic-ai/)
 - [Transformers in AI](https://aws.amazon.com/what-is/transformers-in-artificial-intelligence/)
 - [Neural network zoo](https://www.asimovinstitute.org/neural-network-zoo/)
+- [Sagemaker's built-in algorithms](https://docs.aws.amazon.com/sagemaker/latest/dg/algos.html)
