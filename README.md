@@ -5,3 +5,4 @@
 - [Skill builder, massive course catalog](https://skillbuilder.aws/)
 
 ## Supporting links
+- [What is Agentic AI](https://aws.amazon.com/what-is/agentic-ai/)
