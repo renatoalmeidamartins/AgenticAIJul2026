@@ -21,3 +21,4 @@
     - [mcpservers.com server list](https://mcpservers.com/)
     - [Another curated server list based on number of starts for their repos](https://github.com/apappascs/mcp-servers-hub)
   - [MCP registry](https://registry.modelcontextprotocol.io/)
+- [Effective context engineering for AI agents](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents)
