@@ -14,3 +14,10 @@
 - [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/abs/2210.03629)
 - [What is RAG (Retrieval-Augmented Generation)?](https://aws.amazon.com/what-is/retrieval-augmented-generation/)
 - [What is the Model Context Protocol (MCP)?](https://modelcontextprotocol.io/docs/2026-07-28/getting-started/intro)
+- [Example MCP Servers](https://modelcontextprotocol.io/examples)
+- MCP Servers list
+  - [An old commit, how it used to be kept by the MCP community, an infintie list of servers](https://github.com/modelcontextprotocol/servers/blob/599b170e9d750326c069ae87fd5991b099fb964a/README.md)
+  - [Currently, MCP community has a curated list of resources, including links to server lists](https://github.com/modelcontextprotocol/servers)
+    - [mcpservers.com server list](https://mcpservers.com/)
+    - [Another curated server list based on number of starts for their repos](https://github.com/apappascs/mcp-servers-hub)
+  - [MCP registry](https://registry.modelcontextprotocol.io/)
